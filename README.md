@@ -11,6 +11,8 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=white)
 ![Powershell Badge](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&labelColor=5391FE&logo=powershell&logoColor=white)
 
+### Tools:
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=FF6C37&logo=postman&logoColor=white)
 ---
 ### Active Projects: 
 
