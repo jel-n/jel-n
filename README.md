@@ -8,7 +8,7 @@ Find me:
 [![Twitter Badge](https://img.shields.io/badge/-@securitysith-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/securitysith)](https://twitter.com/securitysith)
 
 ### Languages:
-[![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white)]
+![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white)
 <!--
 **jel-n/jel-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
