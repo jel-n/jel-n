@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center" width="150px">I am an information security professional. The respositories you find here may not be perfect, the code might not make sense, but they work (most of the time).</p>
+
+
+
 <!--
 **jel-n/jel-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
