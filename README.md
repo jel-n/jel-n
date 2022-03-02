@@ -2,6 +2,11 @@
 
 <p align="center" width="150px">I am an information security professional. The respositories you find here may not be perfect, the code might not make sense, but they work (most of the time).</p>
 
+<p align="center" width="150px">Find me:</p>
+
+<p align="center" width="150px"><a href="https://www.linkedin.com/in/nickjelinek/">
+  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/reference/linkedin.svg" />
+</a></p>
 
 
 <!--
