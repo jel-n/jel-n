@@ -14,7 +14,7 @@
 ### Tools:
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=FF6C37&logo=postman&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=E95420&logo=ubuntu&logoColor=white)
-![RedHat Badge]('https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&labelColor=EE0000&logo=redhat&logoColor=white')
+![RedHat Badge]("https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&labelColor=EE0000&logo=redhat&logoColor=white")
 
 #EE0000
 ---
