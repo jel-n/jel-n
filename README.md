@@ -2,7 +2,7 @@
 
 <p align="center" width="150px">I am an information security professional. The respositories you find here may not be perfect, the code might not make sense, but they work (most of the time).</p>
 
-<p align="center" width="150px">Find me:</p>
+Find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nickjelinek-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickjelinek/)](https://www.linkedin.com/in/nickjelinek/)
 [![Twitter Badge](https://img.shields.io/badge/-@securitysith-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/securitysith)](https://twitter.com/securitysith)
