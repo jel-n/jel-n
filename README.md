@@ -9,7 +9,9 @@ Find me:
 
 ### Languages:
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=E34F26&logo=html&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=white)
+
+
 
 <!--
 **jel-n/jel-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
