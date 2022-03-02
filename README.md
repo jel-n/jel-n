@@ -4,9 +4,10 @@
 
 <p align="center" width="150px">Find me:</p>
 
-<a href="https://www.linkedin.com/in/nickjelinek/"><img align="center" alt="Vedant Jajoo Twitter" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/reference/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nickjelinek/"><img align="center" alt="LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/reference/linkedin.svg" />
 </a></p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-nickjelinek-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickjelinek/)](https://www.linkedin.com/in/nickjelinek/)
 
 <!--
 **jel-n/jel-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
