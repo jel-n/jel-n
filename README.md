@@ -16,7 +16,6 @@
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=E95420&logo=ubuntu&logoColor=white)
 ![RedHat Badge](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&labelColor=EE0000&logo=redhat&logoColor=white)
 
-#EE0000
 ---
 ### Active Projects: 
 
